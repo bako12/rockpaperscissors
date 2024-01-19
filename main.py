@@ -29,3 +29,4 @@ while True:
 print("You won " + str(user_wins) + " times and the computer won " +
       str(computer_wins) + " times!!")
 print("Ciaoo")
+print("wazzap github")
